@@ -1,0 +1,29 @@
+.app-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  min-height: 100vh;
+  background-size: cover;
+}
+
+.game-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+.emojis-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Hex: #6a59ff
+Hex: #ffffff
+Hex: #3d3d3d
+Background Colors
+Hex: #9796f0
+Hex: #fbc7d4
+Hex: #ffffff33
+Hex: #ffce27
+Border Colors
+Hex: #ffffff30 */

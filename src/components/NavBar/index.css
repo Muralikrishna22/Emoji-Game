@@ -1,0 +1,30 @@
+.nav-bar {
+  background-color: #ffffff33;
+  height: 10vh;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  justify-content: space-between;
+}
+.nav-bar-logo-container {
+  display: flex;
+  align-items: center;
+}
+.emoji-game {
+  color: #ffffff;
+  font-family: Roboto;
+  padding-left: 10px;
+}
+
+.scores {
+  font-family: Roboto;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 25px;
+  margin: 20px;
+}
+.score-container {
+  display: flex;
+  align-items: center;
+}
